@@ -1,3 +1,5 @@
+// 词法分析类型
+
 package token
 
 const (

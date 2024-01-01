@@ -1,3 +1,5 @@
+// 词法分析器
+
 package lexer
 
 import "github.com/herrhu97/monkey/token"
